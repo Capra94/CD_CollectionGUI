@@ -33,7 +33,8 @@ The CD Collection Manager is a Java based application that allows users to manag
   Use the "Add CD," "Update CD," "Remove CD," and "Display Collection" buttons to manage your CD collection.
 
 
-How to Use the Project
+## How to Use the Project
+
   Adding a CD:
   Enter the CD's title, artist, and year in the respective text fields.
   Click the "Add CD" button to add the CD to the collection.
